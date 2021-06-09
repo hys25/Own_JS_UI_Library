@@ -513,7 +513,7 @@
     "to-regex-range": "^2.1.1",
     "toidentifier": "^1.0.0",
     "tough-cookie": "^2.5.0",
-    "trim-newlines": "^1.0.0",
+    "trim-newlines": "^3.0.1",
     "trim-right": "^1.0.1",
     "tslib": "^1.13.0",
     "tty-browserify": "^0.0.0",
